@@ -27,11 +27,18 @@
 
 <!--Intro start-->
 
-## 👋 Hello Visitors! 
+
+
+- ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Hello Visitors! 
+
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 I'm a software developer | Web Developer Intern @PinnacleWorks | Gonna start contributing to the open-source community soon. I love diving into new technologies and exploring their potential to make a positive impact.
 
-- 🔭 I’m currently working on **C++, Java, Figma, React, Next.js**
+ 🔭 I’m currently working on **C++, Java, Figma, React, Next.js**
 
 - 🌱 I’m currently learning **to build Websites.**
 
@@ -40,6 +47,8 @@ I'm a software developer | Web Developer Intern @PinnacleWorks | Gonna start con
 - 💬 Ask me about **React, Nodejs, Java, C++, Figma**
 
 - 📫 Feel free to reach me out **meetaparekh2003@gmail.com**
+<br>
+
 
 <!--Intro end-->
 
@@ -109,7 +118,9 @@ I'm a software developer | Web Developer Intern @PinnacleWorks | Gonna start con
   
 </p>
 
-
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 <!--profile visit count-->
 <div align="center">
   
@@ -123,4 +134,5 @@ I'm a software developer | Web Developer Intern @PinnacleWorks | Gonna start con
 ----------------------------------------------------------------------
 Credit: [Meet2054](https://github.com/Meet2054)
 
-Last Edited on: 7/7/2023
+Last Edited on: 16/7/2023
+
