@@ -97,7 +97,7 @@ I'm a software developer | Web Developer Intern @PinnacleWorks | Gonna start con
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,express,figma,firebase,github,html,java,js,linux,materialui,mongodb,mysql,nextjs,nodejs,py,react,express,ai	,py	,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,express,figma,firebase,github,html,java,js,linux,materialui,mongodb,mysql,nextjs,nodejs,py,react,express,ai,py,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
